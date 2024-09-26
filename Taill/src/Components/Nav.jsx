@@ -22,7 +22,7 @@ function Nav() {
         </div>
         <ul 
           tabIndex={0}
-          className="menu menu-sm dropdown-content bg-base-100 rounded-box z-[1] mt-3 w-52 p-2 shadow bg-[#f8b901]">
+          className="menu menu-sm dropdown-content rounded-box z-[1] mt-3 w-52 p-2 shadow bg-[#f8b901]">
            <li><a>ALL CATOGRIES</a></li>
       <li><a>TODAY DETALIS</a ></li>
       <li><a>ELECTRONICS</a></li>

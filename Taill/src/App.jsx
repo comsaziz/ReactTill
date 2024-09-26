@@ -1,7 +1,7 @@
 import './App.css'
 import Nav from './Components/Nav'
 import Cards from './Components/Cards'
-import Home from './Components/Home'
+import Home from './Components/home'
 import Footer from './Components/Footer'
 function App() {
   

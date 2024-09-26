@@ -1,6 +1,6 @@
 
 
-function Cardds(proops) {
+function Home(proops) {
   return (
     <div>
       <div className="card card-side bg-base-100 shadow-xl rounded-none">
@@ -21,4 +21,4 @@ function Cardds(proops) {
   )
 }
 
-export default Cardds
+export default Home
